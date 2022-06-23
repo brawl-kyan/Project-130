@@ -1,0 +1,13 @@
+.NOTE{
+    font-size: 17px;
+    color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#name{
+margin-top:20px ;    
+}
+canvas{
+border-color: blue;
+border-width: 10px;
+border-style: ridge;   
+} 
